@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Mulish-Regular;
+    src: url('./assets/Mulish/Mulish-Regular.ttf');
+}
+@font-face {
+    font-family: Roboto-Light;
+    src: url('./assets/Roboto/Roboto-Light.ttf');
+}
+
+body {
+    text-align: center;
+    font-family: 'Mulish-Regular';
+}
+
+button {
+    background-color: white;
+    font-family: 'Mulish-Regular';
+    cursor: pointer;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 5px;
+}
+
+.profileImage {
+    border-radius: 100px;
+}
