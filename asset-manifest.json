@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/soundarakumar/soundar-portfolio/static/css/main.77438480.chunk.css",
-    "main.js": "/soundarakumar/soundar-portfolio/static/js/main.e8a74907.chunk.js",
-    "main.js.map": "/soundarakumar/soundar-portfolio/static/js/main.e8a74907.chunk.js.map",
-    "runtime-main.js": "/soundarakumar/soundar-portfolio/static/js/runtime-main.d76ec062.js",
-    "runtime-main.js.map": "/soundarakumar/soundar-portfolio/static/js/runtime-main.d76ec062.js.map",
-    "static/js/2.1cb67a03.chunk.js": "/soundarakumar/soundar-portfolio/static/js/2.1cb67a03.chunk.js",
-    "static/js/2.1cb67a03.chunk.js.map": "/soundarakumar/soundar-portfolio/static/js/2.1cb67a03.chunk.js.map",
-    "index.html": "/soundarakumar/soundar-portfolio/index.html",
-    "static/css/main.77438480.chunk.css.map": "/soundarakumar/soundar-portfolio/static/css/main.77438480.chunk.css.map",
-    "static/js/2.1cb67a03.chunk.js.LICENSE.txt": "/soundarakumar/soundar-portfolio/static/js/2.1cb67a03.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/soundarakumar/soundar-portfolio/static/media/Roboto-Light.8be2d148.ttf",
-    "static/media/email_icon.160a6010.png": "/soundarakumar/soundar-portfolio/static/media/email_icon.160a6010.png",
-    "static/media/github_icon.ccc9e199.png": "/soundarakumar/soundar-portfolio/static/media/github_icon.ccc9e199.png",
-    "static/media/linkedin_icon.27cd6ff7.png": "/soundarakumar/soundar-portfolio/static/media/linkedin_icon.27cd6ff7.png",
-    "static/media/skava_logo.d0ba64f7.png": "/soundarakumar/soundar-portfolio/static/media/skava_logo.d0ba64f7.png"
+    "main.css": "/soundarakumar/soundar-portfolio/gh-pages/static/css/main.38432584.chunk.css",
+    "main.js": "/soundarakumar/soundar-portfolio/gh-pages/static/js/main.e8a74907.chunk.js",
+    "main.js.map": "/soundarakumar/soundar-portfolio/gh-pages/static/js/main.e8a74907.chunk.js.map",
+    "runtime-main.js": "/soundarakumar/soundar-portfolio/gh-pages/static/js/runtime-main.a6c433f2.js",
+    "runtime-main.js.map": "/soundarakumar/soundar-portfolio/gh-pages/static/js/runtime-main.a6c433f2.js.map",
+    "static/js/2.1cb67a03.chunk.js": "/soundarakumar/soundar-portfolio/gh-pages/static/js/2.1cb67a03.chunk.js",
+    "static/js/2.1cb67a03.chunk.js.map": "/soundarakumar/soundar-portfolio/gh-pages/static/js/2.1cb67a03.chunk.js.map",
+    "index.html": "/soundarakumar/soundar-portfolio/gh-pages/index.html",
+    "static/css/main.38432584.chunk.css.map": "/soundarakumar/soundar-portfolio/gh-pages/static/css/main.38432584.chunk.css.map",
+    "static/js/2.1cb67a03.chunk.js.LICENSE.txt": "/soundarakumar/soundar-portfolio/gh-pages/static/js/2.1cb67a03.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/soundarakumar/soundar-portfolio/gh-pages/static/media/Roboto-Light.8be2d148.ttf",
+    "static/media/email_icon.160a6010.png": "/soundarakumar/soundar-portfolio/gh-pages/static/media/email_icon.160a6010.png",
+    "static/media/github_icon.ccc9e199.png": "/soundarakumar/soundar-portfolio/gh-pages/static/media/github_icon.ccc9e199.png",
+    "static/media/linkedin_icon.27cd6ff7.png": "/soundarakumar/soundar-portfolio/gh-pages/static/media/linkedin_icon.27cd6ff7.png",
+    "static/media/skava_logo.d0ba64f7.png": "/soundarakumar/soundar-portfolio/gh-pages/static/media/skava_logo.d0ba64f7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d76ec062.js",
+    "static/js/runtime-main.a6c433f2.js",
     "static/js/2.1cb67a03.chunk.js",
-    "static/css/main.77438480.chunk.css",
+    "static/css/main.38432584.chunk.css",
     "static/js/main.e8a74907.chunk.js"
   ]
 }
